@@ -1,6 +1,6 @@
 Class List: 
-CS1
+CS2
 Chem 1
 Geometry
 English II 
-Health
+
